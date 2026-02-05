@@ -10,6 +10,7 @@ Separação automática de alunos aprovados (nota ≥ 7) e reprovados
 Geração de duas novas planilhas:
 - alunos_aprovados.xlsx
 - alunos_reprovados.xlsx
+
 Cálculo da média geral da turma
 Identificação do aluno com a maior nota
 
